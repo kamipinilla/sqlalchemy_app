@@ -1,5 +1,4 @@
-## How to run
-### Server
+## Server
 
 ```shell
 cd server
@@ -12,7 +11,7 @@ pip install -r requirements.txt
 flask run --reload
 ```
 
-### Client
+## Client
 
 ```bash
 cd client
